@@ -1,10 +1,10 @@
 #include "shell.h"
 
 /**
- * add_node - adds a node to the start of the list
+ * add_node - adds a node to the start of the lists 
  * @head: address of pointer to head node
  * @str: str field of node
- * @num: node index used by history
+ * @num: node index used by history to access 
  *
  * Return: size of list
  */
